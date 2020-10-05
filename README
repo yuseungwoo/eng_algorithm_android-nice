@@ -1,0 +1,20 @@
+
+1. 안드로이드 스튜디오 설치 
+https://vitux.com/how-to-install-android-studio-on-ubuntu-20-04/
+
+2. 안드로이드 가이드 
+https://play.google.com/store/books?hl=ko
+1. 모두의 안드로이드
+2. Do it 안드로이드 앱 프로그래밍
+3. 안드로이드 개발 공부 방향, 첫째
+4. - 음성인식 앱 만들어보기
+5. - wav2letter 포팅하기,( ndk, 라이브러리 개념 ) 
+6.  ,ndk - helloworld jni build 하기
+7. 
+8. - 인식결과 비교하기 연동하기
+
+안드로이드 오류 해결, /dev/vm 권한 해결(참고)
+https://www.crocus.co.kr/1645
+
+안드로이드 음성인식 어플리케이션 예제
+https://www.simplifiedcoding.net/android-speech-to-text-tutorial/
